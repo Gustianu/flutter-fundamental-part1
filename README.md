@@ -1,9 +1,9 @@
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**
-Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT
-<br />
-<img width="598" height="142" alt="1" src="https://github.com/user-attachments/assets/95eff91b-3532-42fb-b707-d8b0fc1dc103" />
-<br />
+Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT<br />
+
+<img width="598" height="142" alt="1" src="https://github.com/user-attachments/assets/95eff91b-3532-42fb-b707-d8b0fc1dc103" /><br />
+
 
 
 <img width="607" height="134" alt="2" src="https://github.com/user-attachments/assets/9f052db7-d2e8-4ff1-b672-92b50aae50d9" />

@@ -1,6 +1,7 @@
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**
-Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT<br />
+Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT
+<br />
 
 <img width="598" height="142" alt="1" src="https://github.com/user-attachments/assets/95eff91b-3532-42fb-b707-d8b0fc1dc103" />
 <br/>
@@ -22,7 +23,9 @@ Kemudian buat folder sesuai style laporan praktikum yang anda piih. Disarankan f
 Buat nama project flutter HELLO_WORLD seperti berikut, lalu tekan ENTER. Tunggu hingga proses pembuatan project selesai
 
 <img width="608" height="98" alt="4" src="https://github.com/user-attachments/assets/eb1f6662-d203-4c58-ad86-0fb570e288ed" />
-
+<br/>
+<br/>
+<br/>
 
 **Langkah 4:**
 Jika sudah selesai proses pembuatan baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "YOUR FLUTTER PROJECT IS READY!" artinya anda telah berhasil membuat project flutter baru.

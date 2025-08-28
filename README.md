@@ -31,9 +31,10 @@ Buat nama project flutter HELLO_WORLD seperti berikut, lalu tekan ENTER. Tunggu 
 Jika sudah selesai proses pembuatan baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "YOUR FLUTTER PROJECT IS READY!" artinya anda telah berhasil membuat project flutter baru.
 
 <img width="1209" height="803" alt="5" src="https://github.com/user-attachments/assets/31eb493c-0aa1-4d51-b8b8-72eb47cc5dbc" />
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### MENERAPKAN WIDGET DASAR
 **Langkah 1: Text Widget**

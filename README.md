@@ -1,3 +1,4 @@
+<pre>
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**
 Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT<br />
@@ -50,3 +51,4 @@ Jangan lupa sesuaikan kode dan import di file **main.dart**.
 
 <img width="693" height="551" alt="7" src="https://github.com/user-attachments/assets/fe862c79-e985-4f95-bccf-f28594edb941" />
 
+</pre>

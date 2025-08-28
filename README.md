@@ -7,8 +7,7 @@ Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu 
 
 
 <img width="607" height="134" alt="2" src="https://github.com/user-attachments/assets/9f052db7-d2e8-4ff1-b672-92b50aae50d9" />
-
-
+<br />
 **Langkah 2:**
 Kemudian buat folder sesuai style laporan praktikum yang anda piih. Disarankan folder dokumen atau dekstop atau alamat folder lain yang tidak terlalu dalam atau panjang. Lalu pilih SELECT A FOLDER TO CREATE THE PROJECT IN
 

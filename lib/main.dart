@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const MyImageWidget(),
+            const MyTextWIdget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,

@@ -159,3 +159,6 @@ Ketika dijalankan akan terlihat seperti pada gambar dibawah
 <br/>
 <br/>
 
+Untuk bagian image_widget.dart
+
+<img width="538" height="899" alt="8" src="https://github.com/user-attachments/assets/768fe433-1e1d-47fc-a8a6-6a0e61268e76" />

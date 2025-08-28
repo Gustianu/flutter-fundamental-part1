@@ -1,4 +1,4 @@
-<div styel="margin-left: 20px; margin-right: 20px;">
+<div styel="margin-left: 200px; margin-right: 200px;">
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**
 Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT

@@ -8,12 +8,15 @@ Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu 
 <img width="607" height="134" alt="2" src="https://github.com/user-attachments/assets/9f052db7-d2e8-4ff1-b672-92b50aae50d9" />
 <br/>
 <br/>
+<br/>
 
 **Langkah 2:**
 Kemudian buat folder sesuai style laporan praktikum yang anda piih. Disarankan folder dokumen atau dekstop atau alamat folder lain yang tidak terlalu dalam atau panjang. Lalu pilih SELECT A FOLDER TO CREATE THE PROJECT IN
 
 <img width="955" height="689" alt="3" src="https://github.com/user-attachments/assets/9b7c3dce-f461-47ab-a748-a03591a1b085" />
-
+<br/>
+<br/>
+<br/>
 
 **Langkah 3:**
 Buat nama project flutter HELLO_WORLD seperti berikut, lalu tekan ENTER. Tunggu hingga proses pembuatan project selesai

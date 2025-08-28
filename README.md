@@ -148,7 +148,7 @@ Untuk menjalankan project flutter yang telah dibuat sebelumnya, pilih device ter
 
 Ketika dijalankan akan terlihat seperti pada gambar dibawah
 
-<img width="692" height="925" alt="7" src="https://github.com/user-attachments/assets/098f5177-a1b4-4ee3-b6ac-66929698b579" />
+<img width="534" height="925" alt="7" src="https://github.com/user-attachments/assets/8104688b-a509-4e3a-9a76-f4d29ae717e9" />
 <br/>
 <br/>
 <br/>

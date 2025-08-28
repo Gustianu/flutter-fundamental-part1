@@ -1,5 +1,4 @@
-<div align="center">
-  
+<img width="460" height="732" alt="image" src="https://github.com/user-attachments/assets/c729ea77-96aa-468c-913a-eed572b1e8c2" /><img width="482" height="775" alt="image" src="https://github.com/user-attachments/assets/16c15249-9a73-48d5-a232-3d00514c6c3f" /> 
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**
 Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT
@@ -66,5 +65,91 @@ Jangan lupa sesuaikan kode dan import di file **main.dart**.
 <br/>
 <br/>
 
+#### MENYAMBUNGKAN FLUTTER DENGAN EMULATOR ATAU ANDROID STUDIO
+**Langkah 1:**
+Buka ANDROID STUDIO dan pilih menu plugin pada bagian kiri pada posisi nomer 3 dari atas
 
-</div>
+<img width="1251" height="428" alt="9" src="https://github.com/user-attachments/assets/2813ea50-4860-44ad-9799-f057ccccdb33" />
+<br/>
+<br/>
+<br/>
+
+**Langkah 2:**
+Pada bagian tab marketplace ketik pada pencarian yang memiliki simbol kaca pembesar dan ketikkan **Flutter** dan pilih flutter dan install flutter tunggu hingga selesai download, setelah selesai download maka akan ada tombol **restart ide** maka **restart ide**
+
+<img width="1224" height="250" alt="10" src="https://github.com/user-attachments/assets/a029d081-1ab5-4d52-a1bb-db111f9a9191" />
+<br/>
+<br/>
+<br/>
+
+**Langkah 3:**
+Setelah selesai restart Android Studio pilih **open** yang memiliki simbol plus(+).
+
+<img width="1082" height="473" alt="11" src="https://github.com/user-attachments/assets/ed0ec96d-788e-4ec3-abf8-9fb8e2446359" />
+<br/>
+<br/>
+
+Pilih project flutter yang telah dibuat sebelumnya dan klik **select folder**
+
+<img width="945" height="533" alt="12" src="https://github.com/user-attachments/assets/e6275929-ef3b-4c37-bc47-8f35a3d2fdae" />
+
+<br/>
+<br/>
+<br/>
+
+**Langkah 4:**
+Jika muncul gambar seperti dibawah pada bagian atas halaman Android Studio, maka pilih **Get Dependencies**
+
+<img width="1321" height="193" alt="13(opsional)" src="https://github.com/user-attachments/assets/0ba0f234-3344-4440-b645-a3e077ce2d89" />
+<br/>
+<br/>
+<br/>
+
+**Langkah 5:**
+Pilih **Device manager** pada bagian samping nomer 2 dari atas dan pilih simbol **plus (+)**, pilih **create virtual device**.
+
+<img width="495" height="469" alt="1" src="https://github.com/user-attachments/assets/5b92252b-2f3e-43d9-afb8-b60c72cb6d4e" />
+<br/>
+<br/>
+
+Setelah itu pilih device, setelah memilih device pilih next
+
+<img width="913" height="696" alt="image" src="https://github.com/user-attachments/assets/1b795fab-5868-487d-9c52-5d0ef7fef79e" />
+<br/>
+<br/>
+
+Setelah itu pilih **Finish**
+
+<img width="910" height="694" alt="3" src="https://github.com/user-attachments/assets/d5b33488-28d2-4033-92cb-e66014214ecf" />
+<br/>
+<br/>
+<br/>
+
+**Langkah 6:**
+Pilih **tombol panah kekanan** pada device yang telah di pilih tadi untuk menampilkan emulator sesuai device yang dipilih.
+
+<img width="482" height="775" alt="4" src="https://github.com/user-attachments/assets/4cc08a79-d7f2-4198-b19a-2cc6b856bcb9" />
+<br/>
+<br/>
+
+berikut tampilan device ketika dijalankan
+
+<img width="460" height="732" alt="5" src="https://github.com/user-attachments/assets/f87e8948-4db3-4dac-86f1-7740531abfe0" />
+<br/>
+<br/>
+<br/>
+
+**Langkah 7:**
+Untuk menjalankan project flutter yang telah dibuat sebelumnya, pilih device terlebih dahulu setelah itu pilih simbol panah kekanan.
+
+<img width="1919" height="779" alt="6" src="https://github.com/user-attachments/assets/6381bb3d-2a9e-41ef-b9f3-26f58f98fd41" />
+<br/>
+<br/>
+
+Ketika dijalankan akan terlihat seperti pada gambar dibawah
+
+<img width="692" height="925" alt="7" src="https://github.com/user-attachments/assets/098f5177-a1b4-4ee3-b6ac-66929698b579" />
+<br/>
+<br/>
+<br/>
+

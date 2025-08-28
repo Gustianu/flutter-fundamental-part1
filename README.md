@@ -1,4 +1,4 @@
-<div styel="margin-left:10px; margin-right:10px;">
+<div align="center">
   
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**

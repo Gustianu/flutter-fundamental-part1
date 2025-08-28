@@ -43,8 +43,9 @@ Buat folder baru BASIC_WIDGETS di dalam folder **lib**. kemudian buat file baru 
 Lakukan import file **text_widget.dart**  ke main.dart, lalu ganti bagian text widget dengan kode diatas. Maka hasilnya seperti gambar berikut. Screenshot hasil milik anda, lalu dibuat laporan pada file README.md.
 
 <img width="933" height="592" alt="6" src="https://github.com/user-attachments/assets/bbb87ba0-105f-43c2-b5ef-469e5376e800" />
-
-
+<br/>
+<br/>
+<br/>
 
 **Langkah 2: Image Widget**
 Buat sebuah file **image_widget.dart** didalam folder basi_widgets dengan isi kode berikut.
@@ -52,11 +53,15 @@ Buat sebuah file **image_widget.dart** didalam folder basi_widgets dengan isi ko
 Lakukan penyesuaian asset pada file **pubspec.yaml** dan tambahkan file logo anda di folder ASSETS project hello_world.
 
 <img width="838" height="529" alt="8_(tambah gambar dan setting pubspec yaml)" src="https://github.com/user-attachments/assets/a943c544-9c3b-4380-8468-ab11bbb33506" />
-
-
+<br/>
+<br/>
 
 Jangan lupa sesuaikan kode dan import di file **main.dart**.
 
 <img width="693" height="551" alt="7" src="https://github.com/user-attachments/assets/fe862c79-e985-4f95-bccf-f28594edb941" />
+<br/>
+<br/>
+<br/>
+<br/>
 
 

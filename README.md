@@ -1,4 +1,4 @@
-<img width="460" height="732" alt="image" src="https://github.com/user-attachments/assets/c729ea77-96aa-468c-913a-eed572b1e8c2" /><img width="482" height="775" alt="image" src="https://github.com/user-attachments/assets/16c15249-9a73-48d5-a232-3d00514c6c3f" /> 
+
 #### MEMBUAT PROJECT FLUTTER BARU 
 **Langkah 1:**
 Buka VScode, lalu tekan CTRL + SHIFT + P maka akan tampil command palette, lalu ketik FLUTTER. Pilih NEW APPLICATION PROJECT
